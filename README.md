@@ -1,2 +1,2 @@
-# Estate-Estimation
+# Linear-Distributed-Estate-Estimation
 Linear distributed estate estimator for IEEE 39 
